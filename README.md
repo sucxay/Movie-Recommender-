@@ -27,6 +27,19 @@ A deep learning used Movie recommending system for cinephiles.
 └── .gitignore
 ```
 
+## Architecture 
+User Input
+      ↓
+Movie Lookup
+      ↓
+Feature Extraction
+      ↓
+Vector Representation
+      ↓
+Cosine Similarity
+      ↓
+Top 5 Recommendations
+
 ## Future Improvements
 
 - Hybrid recommendations
